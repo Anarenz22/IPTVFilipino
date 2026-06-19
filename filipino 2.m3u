@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="1" group-title="Other",1
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u
+#EXTINF:-1 tvg-name="2" group-title="Other",2
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+#EXTINF:-1 tvg-name="hbo" group-title="Other",hbo
+https://t.freetv.fun/live/hbo-2.m3u8
+#EXTINF:-1 tvg-name="3" group-title="Other",3
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
+#EXTINF:-1 tvg-name="4" group-title="Other",4
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
+#EXTINF:-1 tvg-name="5" group-title="Other",5
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:-1 tvg-name="6" group-title="Other",6
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
+#EXTINF:-1 tvg-name="7" group-title="Other",7
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
+#EXTINF:-1 tvg-name="8" group-title="Other",8
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+#EXTINF:-1 tvg-name="9" group-title="Other",9
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8
+#EXTINF:-1 tvg-name="10" group-title="Other",10
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
+#EXTINF:-1 tvg-name="11" group-title="Other",11
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
+#EXTINF:-1 tvg-name="12" group-title="Other",12
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
+#EXTINF:-1 tvg-name="13" group-title="Other",13
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
+#EXTINF:-1 tvg-name="14" group-title="Other",14
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
+#EXTINF:-1 tvg-name="15" group-title="Other",15
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
+#EXTINF:-1 tvg-name="16" group-title="Other",16
+http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-name="17" group-title="Other",17
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-name="18" group-title="Other",18
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="19" group-title="Other",19
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-name="20" group-title="Other",20
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
